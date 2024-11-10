@@ -1,3 +1,3 @@
 # Hello, World!
 
-I study in Netology
+I do my Samwork
